@@ -1,5 +1,5 @@
 ---
-typora-root-url: Game screenshots
+
 ---
 
 # Pacman
@@ -9,9 +9,9 @@ Pac-Man games compiled using assembly language
 
 ##### Game screenshots
 
-![](/game_begin.JPG)
+![game_begin](https://github.com/Wenuo/Pacman/tree/master/Game%20screenshots/game_begin.jpg)
 
-![game_over](/game_over.JPG)
+![game_over](https://github.com/Wenuo/Pacman/tree/master/Game%20screenshots/game_over.jpg)
 
-![game_running](/game_running.JPG)
+![game_running](https://github.com/Wenuo/Pacman/tree/master/Game%20screenshots/game_running.jpg)
 
